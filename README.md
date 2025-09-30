@@ -5,7 +5,7 @@ A simple desktop application to download YouTube playlists in MP3 or MP4 format.
 
 ## About
 
-This is a simple script to download YouTube playlists. I was searching for online sites or simple scripts to download music but didn't find any that worked well, so I created this tool. I use it from time to time and thought it would be helpful to share. An executable is provided if you prefer not to run the Python code directly.
+This is a simple script to download YouTube playlists. I was searching for online sites or simple scripts to download music or courses/podcasts but didn't find any that worked well, so I created this tool. I use it from time to time and thought it would be helpful to share. An executable is provided if you prefer not to setup the dependencies or install things.
 
 ## Features
 
