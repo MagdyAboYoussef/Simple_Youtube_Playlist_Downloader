@@ -45,9 +45,9 @@ When running from source, `yt-dlp` and `ffmpeg` must be installed on your system
 
 ## How to Run the EXE File
 
-If you prefer a plug-and-play experience without installing Python:
+If you are lazy and don't want to setup python or dependancies you can run the executable which includes the dependencies loaded in it
 
-1. Download `YouTube_Downloader.exe` from the [Releases](https://github.com/MagdyAboYoussef/Simple_Youtube_Playlist_Downloader/releases/latest) page
+1. Download `YouTube_Downloader.exe` from the [Releases](https://github.com/MagdyAboYoussef/Youtube-Playlist-Downloade/releases/latest) page
 2. Double-click the executable to run
 3. No installation required - everything is bundled
 
