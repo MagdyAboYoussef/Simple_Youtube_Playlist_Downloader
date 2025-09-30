@@ -1,6 +1,7 @@
 # YouTube Playlist Downloader
 
 A simple desktop application to download YouTube playlists in MP3 or MP4 format.
+<img width="802" height="797" alt="image" src="https://github.com/user-attachments/assets/65a239f6-befd-4b2c-90c5-c48fbe71633c" />
 
 ## About
 
